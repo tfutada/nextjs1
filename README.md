@@ -1,5 +1,7 @@
 ## Solana frontend started kit
 
+1
+
 This template has everything you need to build a web3 app on Solana using the thirdweb SDK.
 
 ## Getting Started
